@@ -12,12 +12,12 @@ We help our friend Dana to create a more in depth analysis of UFO sightings in h
 
 The deployed webpage is accessible at https://aliciacordova.github.io/UFOs/ 
 
-This is the initial page. 
+This is the initial page. At the top you'll see the navigation bar "UFO Sightings".
 
 ![UFO](https://user-images.githubusercontent.com/87447639/138559234-35881d1e-d9b5-48a8-928b-7f266fce8545.PNG)
 
 
-The user enters the desired date, the change is detected and the table is updated accordingly.
+The user enters the desired date, city, state, country and shape. The change is detected and the table is updated accordingly.
 
 ![UFO2](https://user-images.githubusercontent.com/87447639/138559236-e4bf9fcc-58d9-4d50-9a20-cde81efbc629.PNG)
 
